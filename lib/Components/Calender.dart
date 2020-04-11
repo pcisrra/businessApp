@@ -3,7 +3,7 @@ import 'CalenderCell.dart';
 
 class Calender extends StatelessWidget {
   final EdgeInsets margin;
-  final List<String> week = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
+  final List<String> week = ["DOM", "LUN", "MAR", "MER", "JUE", "VIE", "SAB"];
   final List arrayDay = [];
   Calender({this.margin});
 

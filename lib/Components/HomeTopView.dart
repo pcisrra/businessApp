@@ -68,7 +68,7 @@ class ImageBackground extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
                     new Text(
-                      "Good Morning!",
+                      "Buenas noches!",
                       style: new TextStyle(
                           fontSize: 30.0,
                           letterSpacing: 1.2,

@@ -21,39 +21,33 @@ class ListViewContent extends StatelessWidget {
         new ListData(
             margin: listSlidePosition.value * 5.5,
             width: listTileWidth.value,
-            title: "Yoga classes with Emily",
-            subtitle: "7 - 8am Workout",
+            title: "Reunióm con Emily",
+            subtitle: "7 - 8am",
             image: avatar6),
         new ListData(
             margin: listSlidePosition.value * 4.5,
             width: listTileWidth.value,
-            title: "Breakfast with Harry",
+            title: "Reunión con Harold",
             subtitle: "9 - 10am ",
             image: avatar1),
         new ListData(
             margin: listSlidePosition.value * 3.5,
             width: listTileWidth.value,
-            title: "Meet Pheobe ",
-            subtitle: "12 - 1pm  Meeting",
+            title: "Paquete contabilidad Paola",
+            subtitle: "12 - 1pm  (IMPORTANTE)",
             image: avatar5),
         new ListData(
             margin: listSlidePosition.value * 2.5,
             width: listTileWidth.value,
-            title: "Lunch with Janet and friends",
+            title: "Reunión administrador clientes",
             subtitle: "2 - 3pm ",
             image: avatar4),
         new ListData(
             margin: listSlidePosition.value * 1.5,
             width: listTileWidth.value,
-            title: "Catch up with Tom",
-            subtitle: "5 - 6pm  Hangouts",
+            title: "Reunión arquitectura",
+            subtitle: "5 - 6pm  (IMPORTANTE)",
             image: avatar2),
-        new ListData(
-            margin: listSlidePosition.value * 0.5,
-            width: listTileWidth.value,
-            title: "Party at Hard Rock",
-            subtitle: "8 - 12 Pub and Restaurant",
-            image: avatar3),
       ],
     ));
   }
